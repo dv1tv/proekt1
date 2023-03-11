@@ -1,0 +1,100 @@
+.item_one {
+    border: solid 1px rgb(190, 190, 190);
+    border-radius: 5px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.item_price {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.item_two {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.city {
+    margin-top: 130px;
+}
+
+.text_font {
+    font-size: 20px;
+    font-weight: 500;
+}
+.furniture_1 {
+    margin-left: 40%;
+}
+
+.page_3 {
+    border: solid 1px rgb(190, 190, 190);
+    border-radius: 5px;
+    
+}
+
+.btn {
+    width: 100px;
+    height: 50px;
+}
+
+.picture {
+    justify-content: center;
+}
+
+.item_price_dollar {
+    text-align: center;
+    border: 1px solid rgb(155, 154, 154);
+    border-radius: 5px;
+    width: 400px;
+    height: 50px;
+    font-weight: 500;
+    font-size: 30px;
+    
+}
+
+.item_letter {
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid rgb(155, 154, 154);
+    border-radius: 5px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: 500;
+    background-color: rgb(8, 132, 170);
+    color: white;
+}
+
+.account {
+    margin-top: 50px;
+    width: 400px;
+    height: 150px;
+    background-color: rgb(211, 208, 208);
+    text-align: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.image_account {
+    margin-top: -40px;
+}
+
+.item_button {
+    background-color: rgb(211, 208, 208);
+    border: 1px solid rgb(8, 132, 170);
+    border-radius: 5px;
+    color: rgb(8, 132, 170);
+    width: 300px;
+}
+
+.item_red {
+    color: red;
+    margin-top: 20px;
+}
+
+.item_views {
+    background-color: grey;
+    width: 1307px;
+    height: 50px;
+
+}
